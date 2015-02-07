@@ -130,13 +130,16 @@
             <p>Wherein several Catechetical Paraphrases and other very Excellent PRAYERS selected out of the Primitive Writers, formerly publisht in Latine, are now made English; and the whole reduced to an exact Method for the Benefit of the DEVOUT.</p>
             <p>
                <hi>London:</hi> Printed for <hi>Matthew Gillyflower</hi> and <hi>William Hensman,</hi> and are to be sold at their Shops in <hi>Westminster-hall.</hi> 1683.</p>
-            <figure>
-               <head>William Laud Lord ArchBishop of Canterbury his grace Privy Councilor to King Charles y<hi rend="sup">e</hi> 
-                  <gap reason="illegible: in gutter" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>
-               </head>
-            </figure>
+            <p>
+               <pb facs="tcp:102404:2"/>
+               <figure>
+                  <head>William Laud Lord ArchBishop of Canterbury his grace Privy Councilor to King Charles y<hi rend="sup">e</hi> 
+                     <gap reason="illegible: in gutter" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </head>
+               </figure>
+            </p>
             <pb facs="tcp:102404:2" rendition="simple:additions"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
